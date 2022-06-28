@@ -3,5 +3,15 @@
         "id" : 0,
         "name" : "쥴리",
         "description" : "마늘오리"
+    },
+    {
+        "id" : 1,
+        "name" : "초코",
+        "description" : "양파오리"
+    },
+    {
+        "id" : 2,
+        "name" : "초리",
+        "description" : "파오리"
     }
 ]
